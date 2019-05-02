@@ -2,7 +2,7 @@
 ```bash
 git clone https://github.com/Salamdi/xml_generator.git
 cd xml_generator/
-node converter peth/to/src/file-name.txt path/to/destination/file-name.xml
+node converter path/to/src/file-name.txt path/to/destination/file-name.xml
 ```
 
 ## Example
